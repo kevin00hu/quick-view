@@ -1,6 +1,6 @@
 # Stable diffusion style learning
 
-I want to let stable diffusion to learn a new style.
+I want to let the stable diffusion model to learn a new style.
 
 ## Data
 13 images -> 26 images after horizontal flipping
